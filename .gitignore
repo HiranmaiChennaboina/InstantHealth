@@ -1,0 +1,5 @@
+# Ignore dependencies
+/src/node_modules
+
+# Ignore system metadata
+.DS_Store
